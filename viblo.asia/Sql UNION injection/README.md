@@ -1,1 +1,1 @@
-new
+[English](https://github.com/KMADokuhebi/Blog/tree/main/viblo.asia/Sql%20UNION%20injection/Engsub) and [Vietsub](https://github.com/KMADokuhebi/Blog/tree/main/viblo.asia/Sql%20UNION%20injection/viesub)
