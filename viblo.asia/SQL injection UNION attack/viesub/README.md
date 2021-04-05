@@ -3,6 +3,7 @@ Khi mà một ứng dụng lỗi SQL injection, kết quả gửi về trong res
 Để UNION query nó work thì phải có đủ hai điều kiện:
 * Các individual queries phải trả về cùng một số cột
 * Data type của mỗi cột phải compatible với các individual queries
+
 _Điều này sẽ thường liên quan đến việc tìm ra:_
 * Bao nhiêu cột được return từ truy vấn ban đầu
 * Cột nào đc trả về chứa dữ liệu mà truy vấn ban đầu thực hiện
