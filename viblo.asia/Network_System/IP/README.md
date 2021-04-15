@@ -11,8 +11,10 @@ Ip gồm **32** bit :(theo ví dụ sẽ là) `10000000 00101010 00000101 000001
  
 Ip sẽ được cấu tạo gồm 2 phần `[Network][Host]`
 * `[Network]` xác định network đó
-* `[Host]` để đánh cho các thiết bị trong mạng network đó
-Nếu ta muốn gửi một gói tin đến địa chỉ `128.42.5.4` thì k thể biết đc phần `Network` ip ở đâu nên phải thêm _Subnetmask_ 
+* `[Host]` để đánh cho các thiết bị trong mạng network đó.
+
+Nhìn ip `128.42.5.4` thì k thể biết đc phần `Network` là bao nhiêu, nên phải đề thêm _Subnetmask_ hay là đánh dấu Network qua`128.42.5.4/21` 
+(*21* là Số Bit Network dùng từ 22 đến 32 là của Host)
 
 Theo ví dụ thì _Subnetmask_ `255.255.248.0` đổi ra hệ nhị phân sẽ là `11111111 11111111 11111000 00000000`
 Thực hiện phép AND 
