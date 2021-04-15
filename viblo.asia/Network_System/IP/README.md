@@ -5,7 +5,13 @@ __Thoi để lấy cái ví dụ nhẹ cái__
 >
 > hay 128.42.5.4/21 (510 ip address)
 
-__Nếu thấy vấn đề vì sao vậy thì đọc tiếp hong thì thoi nhé__
+_Nếu thấy vấn đề vì sao vậy thì đọc tiếp hong thì thoi nhé_
 ### Một chút về IP
- ip gồm **32** bit :(theo ví dụ sẽ là) `10000000 00101010 00000101 00000100`
+ ip gồm **32** bit :(theo ví dụ sẽ là) `10000000 00101010 00000101 00000100` mỗi dãi là 8 bit gọi là **octet**
+Ip sẽ được cấu tạo gồm 2 phần `[Network][Host]`
+* `[Network]` xác định network đó
+* `[Host]` để đánh cho các thiết bị trong mạng network đó
+
+ 
+ 
 
