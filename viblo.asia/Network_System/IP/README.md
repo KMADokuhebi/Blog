@@ -6,5 +6,6 @@ __Thoi để lấy cái ví dụ nhẹ cái__
 > hay 128.42.5.4/21 (510 ip address)
 
 __Nếu thấy vấn đề vì sao vậy thì đọc tiếp hong thì thoi nhé__
+### Một chút về IP
+ ip gồm *32* bit :(theo ví dụ sẽ là)
 
-test
