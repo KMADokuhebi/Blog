@@ -7,5 +7,5 @@ __Thoi để lấy cái ví dụ nhẹ cái__
 
 __Nếu thấy vấn đề vì sao vậy thì đọc tiếp hong thì thoi nhé__
 ### Một chút về IP
- ip gồm *32* bit :(theo ví dụ sẽ là)
+ ip gồm **32** bit :(theo ví dụ sẽ là) ''10000000 00101010 00000101 00000100''
 
