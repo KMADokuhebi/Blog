@@ -42,6 +42,6 @@ cho 4 Subnet tương ứng. Đọc tới đây thì các bạn hiểu vì sao c�
 OK nào vì Subnet trên đã dùng _23_ địa chỉ đầu để đánh địa chỉ mạng ròi nên `32=23=9` địa chỉ sau sẽ được đánh IP cho Host trong mạng.
 Số ip đựa chia sẽ là `2^9 -2 =510`.Lấy Subnet 1 làm vd *Trừ 2* là vì ta dùng `128.42.0.0`làm địa chỉ Subnet và `128.42.1.255` làm địa chỉ Broadcast
 (Broadcast là địa chỉ có phần host là *1*: `128.42.1.255` ->> `10000000 00101010 00000001 11111111`)
-#### Bạn đã hiểu vấn đề chưa? nếu chưa hiểu thì đọc lại từ đầu nhé.
+##### Bạn đã hiểu vấn đề chưa? nếu chưa hiểu thì đọc lại từ đầu nhé.
 
 
